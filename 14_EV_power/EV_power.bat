@@ -1,0 +1,1 @@
+"C:\Users\Diego Alves\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\Diego Alves\Desktop\Python\14_EV_power\EV_SQL_analysis.py"

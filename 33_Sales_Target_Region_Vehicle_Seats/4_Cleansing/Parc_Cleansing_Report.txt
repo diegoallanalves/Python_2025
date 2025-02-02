@@ -1,0 +1,27 @@
+
+
+Nulls values by columns in the data: Parc <bound method NDFrame._add_numeric_operations.<locals>.sum of Vehicle Type                  0
+Sector                        0
+Make                          0
+Range                         0
+Variant                       0
+Country of Origin             0
+Body Style                    0
+DVLA Body Type                0
+Transmission                  0
+Nominal Engine Capacity       0
+Engine CC                     0
+Fuel Type                     0
+Aspiration                 7409
+Drive_Type                    3
+Power BHP                     0
+MVRISPostcode                 0
+Company_Private               0
+Number Previous Keepers       0
+Number of Seats               0
+Colour                        0
+Weight                        0
+Year of 1st Reg               0
+Count of Registrations        0
+dtype: int64>
+

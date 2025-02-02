@@ -1,0 +1,507 @@
+
+
+Nulls values by columns in the data: df1 - 2020 <bound method NDFrame._add_numeric_operations.<locals>.sum of MPVC                 0
+MPMakeCode           0
+MPRangeCode          0
+MPModelCode          0
+Make                 0
+Model Range          0
+Model Variant        0
+Series           14216
+CofO                 0
+Body                 0
+Trans                0
+CC                   0
+Total                0
+2020                 0
+2019                 0
+2018                 0
+2017                 0
+2016                 0
+2015                 0
+2014                 0
+2013                 0
+2012                 0
+2011                 0
+2010                 0
+2009                 0
+2008                 0
+2007                 0
+2006                 0
+Pre-2006             0
+Unique               0
+dtype: int64>
+
+Missing Data by Percentage df1 - 2020: MPVC - 0%
+Missing Data by Percentage df1 - 2020: MPMakeCode - 0%
+Missing Data by Percentage df1 - 2020: MPRangeCode - 0%
+Missing Data by Percentage df1 - 2020: MPModelCode - 0%
+Missing Data by Percentage df1 - 2020: Make - 0%
+Missing Data by Percentage df1 - 2020: Model Range - 0%
+Missing Data by Percentage df1 - 2020: Model Variant - 0%
+Missing Data by Percentage df1 - 2020: Series - 20%
+Missing Data by Percentage df1 - 2020: CofO - 0%
+Missing Data by Percentage df1 - 2020: Body - 0%
+Missing Data by Percentage df1 - 2020: Trans - 0%
+Missing Data by Percentage df1 - 2020: CC - 0%
+Missing Data by Percentage df1 - 2020: Total - 0%
+Missing Data by Percentage df1 - 2020: 2020 - 0%
+Missing Data by Percentage df1 - 2020: 2019 - 0%
+Missing Data by Percentage df1 - 2020: 2018 - 0%
+Missing Data by Percentage df1 - 2020: 2017 - 0%
+Missing Data by Percentage df1 - 2020: 2016 - 0%
+Missing Data by Percentage df1 - 2020: 2015 - 0%
+Missing Data by Percentage df1 - 2020: 2014 - 0%
+Missing Data by Percentage df1 - 2020: 2013 - 0%
+Missing Data by Percentage df1 - 2020: 2012 - 0%
+Missing Data by Percentage df1 - 2020: 2011 - 0%
+Missing Data by Percentage df1 - 2020: 2010 - 0%
+Missing Data by Percentage df1 - 2020: 2009 - 0%
+Missing Data by Percentage df1 - 2020: 2008 - 0%
+Missing Data by Percentage df1 - 2020: 2007 - 0%
+Missing Data by Percentage df1 - 2020: 2006 - 0%
+Missing Data by Percentage df1 - 2020: Pre-2006 - 0%
+Missing Data by Percentage df1 - 2020: Unique - 0%
+
+
+Nulls values by columns in the data df2 - 2021: <bound method NDFrame._add_numeric_operations.<locals>.sum of MPVC                 0
+MPMakeCode           0
+MPRangeCode          0
+MPModelCode          0
+Make                 0
+Model Range          0
+Model Variant        0
+Series           13917
+CofO                 1
+Body                15
+Trans                0
+CC                   0
+Total                0
+2021                 0
+2020                 0
+2019                 0
+2018                 0
+2017                 0
+2016                 0
+2015                 0
+2014                 0
+2013                 0
+2012                 0
+2011                 0
+2010                 0
+2009                 0
+2008                 0
+2007                 0
+Pre-2007             0
+Unique               0
+dtype: int64>
+
+Missing Data by Percentage df2 - 2021: MPVC - 0%
+Missing Data by Percentage df2 - 2021: MPMakeCode - 0%
+Missing Data by Percentage df2 - 2021: MPRangeCode - 0%
+Missing Data by Percentage df2 - 2021: MPModelCode - 0%
+Missing Data by Percentage df2 - 2021: Make - 0%
+Missing Data by Percentage df2 - 2021: Model Range - 0%
+Missing Data by Percentage df2 - 2021: Model Variant - 0%
+Missing Data by Percentage df2 - 2021: Series - 19%
+Missing Data by Percentage df2 - 2021: CofO - 0%
+Missing Data by Percentage df2 - 2021: Body - 0%
+Missing Data by Percentage df2 - 2021: Trans - 0%
+Missing Data by Percentage df2 - 2021: CC - 0%
+Missing Data by Percentage df2 - 2021: Total - 0%
+Missing Data by Percentage df2 - 2021: 2021 - 0%
+Missing Data by Percentage df2 - 2021: 2020 - 0%
+Missing Data by Percentage df2 - 2021: 2019 - 0%
+Missing Data by Percentage df2 - 2021: 2018 - 0%
+Missing Data by Percentage df2 - 2021: 2017 - 0%
+Missing Data by Percentage df2 - 2021: 2016 - 0%
+Missing Data by Percentage df2 - 2021: 2015 - 0%
+Missing Data by Percentage df2 - 2021: 2014 - 0%
+Missing Data by Percentage df2 - 2021: 2013 - 0%
+Missing Data by Percentage df2 - 2021: 2012 - 0%
+Missing Data by Percentage df2 - 2021: 2011 - 0%
+Missing Data by Percentage df2 - 2021: 2010 - 0%
+Missing Data by Percentage df2 - 2021: 2009 - 0%
+Missing Data by Percentage df2 - 2021: 2008 - 0%
+Missing Data by Percentage df2 - 2021: 2007 - 0%
+Missing Data by Percentage df2 - 2021: Pre-2007 - 0%
+Missing Data by Percentage df2 - 2021: Unique - 0%
+
+
+Cross variance results:DataComPy Comparison
+--------------------
+
+DataFrame Summary
+-----------------
+
+  DataFrame  Columns   Rows
+0  original       30  69376
+1       new       30  72664
+
+Column Summary
+--------------
+
+Number of columns in common: 28
+Number of columns in original but not in new: 2
+Number of columns in new but not in original: 2
+
+Row Summary
+-----------
+
+Matched on: unique
+Any duplicates on match values: Yes
+Absolute Tolerance: 0.0001
+Relative Tolerance: 0
+Number of rows in common: 67,966
+Number of rows in original but not in new: 1,410
+Number of rows in new but not in original: 4,698
+
+Number of rows with some compared columns unequal: 52,276
+Number of rows with all compared columns equal: 15,690
+
+Column Comparison
+-----------------
+
+Number of columns compared with some values unequal: 21
+Number of columns compared with all values equal: 7
+Total number of values which compare unequal: 144,613
+
+Columns with Unequal Values or Types
+------------------------------------
+
+           Column original dtype new dtype  # Unequal  Max Diff  # Null Diff
+20           2007          int64     int64       6996    5238.0            0
+19           2008          int64     int64       6674    4492.0            0
+18           2009          int64     int64       6806    6177.0            0
+17           2010          int64     int64       6098    5144.0            0
+16           2011          int64     int64       5545    6183.0            0
+15           2012          int64     int64       5616    5857.0            0
+14           2013          int64     int64       5418   11280.0            0
+13           2014          int64     int64       5456   12782.0            0
+12           2015          int64     int64       6146   13099.0            0
+11           2016          int64     int64       5965   10601.0            0
+10           2017          int64     int64       5818    8212.0            0
+9            2018          int64     int64       5887   12141.0            0
+8            2019          int64     int64       5054   10221.0            0
+7            2020          int64     int64       3333    5873.0            0
+5              cc          int64     int64         36    9400.0            0
+3            cofo         object    object          1       0.0            0
+0     model range         object    object        790       0.0            0
+1   model variant         object    object         38       0.0            0
+2          series         object    object         25       0.0           25
+6           total          int64     int64      51063   53966.0            0
+4           trans         object    object      11848       0.0            0
+
+Sample Rows with Unequal Values
+-------------------------------
+
+               unique model range (original) model range (new)
+0  7000/PCA/BAAB9/2CN                  44264             44629
+1  7000/PCB/AEJB9/EST                  44264             44629
+2  7000/PFA/CAFC2/4SL                  44325             44690
+3  7000/PFA/LITC9/EST                  44325             44690
+4  7000/PFC/VSTB9/4SL                  44325             44690
+5  7000/PFB/VHJB9/EST                  44325             44690
+6  8000/JOB/ACDB3/5HT                MOKKA X             MOKKA
+7  7000/PCB/VEAB7/4SL                  44264             44629
+8  7000/PCA/SEAC2/3HT                  44264             44629
+9  5800/CAA/FNAB7/2SL                  44290             44655
+
+               unique            model variant (original)                model variant (new)
+0  7000/PFA/BAAB9/EST                               44325                              44690
+1  7000/PCA/BACB9/2CN                               44264                              44629
+2  5800/CAA/FGAB3/2CN                               44290                              44655
+3  7000/PFA/BAAC2/EST                               44325                              44690
+4  1400/CCA/CM2B1/MPV  C4 SPACETOURER FLAIR PURETECH S/S   C4 SPACETOURER FLAIR PURETECH S/S
+5  5800/CAA/FGAB1/2CN                               44290                              44655
+6  7000/PFA/BAAB9/4SL                               44325                              44690
+7  7000/PCA/BACB9/5HT                               44264                              44629
+8  7000/PFA/BAAC2/5HT                               44325                              44690
+9  7000/PCA/BACB9/3HT                               44264                              44629
+
+               unique series (original) series (new)
+0  4080/LOM/SPAB9/EST               NaN            1
+1  4080/LOM/LIMB9/EST               NaN            1
+2  4080/LOM/LIHC1/EST               NaN            1
+3  4080/LOM/LIAC3/5HT               NaN            1
+4  4080/LOM/BEAC3/EST               NaN            1
+5  4080/LOM/LIRB3/EST               NaN            1
+6  4080/LOM/LOMB9/EST               NaN            1
+7  4080/LOM/LICB9/EST               NaN            1
+8  4080/LOM/NOAC3/EST               NaN            1
+9  4080/LOM/LIQB3/EST               NaN            1
+
+               unique cofo (original) cofo (new)
+0  1400/MTA/IE8B4/MPV              FR         UK
+
+               unique trans (original) trans (new)
+0  4080/LCE/LPIB9/EST                M           A
+1  3680/IBC/SFJB5/5HT                S           M
+2  5640/NCA/JELC6/EST                A           M
+3  8000/DDA/LSLB5/EST                M           A
+4   360/DYB/SEPD1/4SL                M           A
+5  8120/LRD/GTJB9/4SL                S           M
+6  7720/BVA/CDVB7/5HT                A           M
+7  4080/ZAA/BAAZ9/4SL                A           M
+8  6760/RXB/DVMB9/2CN                A           M
+9  8120/OTG/ESHB9/EST                M           A
+
+               unique  cc (original)  cc (new)
+0  7335/ZAA/ZZZA5/2CP          599.0    9999.0
+1   800/CMA/HTAB9/2CN         1997.0    1998.0
+2  7335/ZAA/ZZZA6/2SL          698.0    9999.0
+3  7335/ZAA/ZZZA9/2CP          999.0    9999.0
+4  7335/ZAA/ZZZA9/3HT          999.0    9999.0
+5  7335/ZAA/ZZZA5/4SL          599.0    9999.0
+6   800/CMA/HTAB9/5HT         1997.0    1998.0
+7  7335/ZAA/ZZZA5/2CN          599.0    9999.0
+8   800/CMA/HTAB9/MPV         1997.0    1998.0
+9   800/CMA/HTAB9/2CN         1997.0    1998.0
+
+               unique  total (original)  total (new)
+0  4340/CEA/SRAB5/5HT             624.0        268.0
+1  8000/PAA/LSAB9/EST               3.0          7.0
+2  7720/ORD/SRJB3/3HT               2.0         30.0
+3   800/DDC/DXIB9/5HT             103.0         20.0
+4  1400/EBY/YSJB5/MPV             314.0        312.0
+5  6760/PDB/EWAB1/3HT            1017.0       1012.0
+6  6640/BFC/FAAD7/2CP               4.0          5.0
+7  5705/MIO/DE4B9/2CN             697.0        353.0
+8   360/DVB/DTAB7/2CN             460.0        384.0
+9  5640/MMB/FTEB5/MPV             857.0        750.0
+
+               unique  2020 (original)  2020 (new)
+0   360/FPE/0YJB9/EST           1660.0      1659.0
+1  7395/KOB/LBAC1/EST              0.0         1.0
+2  1360/CHA/USAZ9/4SL              0.0         5.0
+3  6600/DSB/AN6B4/MPV              0.0         1.0
+4   800/CMA/DMAB9/EST              8.0        87.0
+5  7320/GAA/SHHB5/EST            132.0       130.0
+6  8000/GRA/B05B4/5HT            430.0       107.0
+7  7320/KAA/B9XA9/5HT            779.0       778.0
+8  4600/BFA/D2GB9/EST            594.0       595.0
+9  8120/MMD/SFTA9/5HT            636.0       637.0
+
+               unique  2019 (original)  2019 (new)
+0  6600/CKD/AI1B1/EST            102.0         6.0
+1  6760/RXG/IC2B7/MPV              1.0         9.0
+2  5640/MMB/HCAB5/MPV              4.0         1.0
+3  4600/DEB/HG4B9/EST           1578.0      1571.0
+4  5640/NRA/CV4B5/EST             45.0        29.0
+5  5720/SGS/GO7B9/EST            439.0       436.0
+6   360/DWB/SATB9/2CP             19.0        18.0
+7  5640/NLD/NDBC9/2CP              1.0         2.0
+8  7560/ZAA/ZAAZ9/MPV              0.0         2.0
+9  8120/JVM/GTHB5/MPV             12.0        10.0
+
+               unique  2018 (original)  2018 (new)
+0  8160/QMM/JJ4B9/EST             28.0        32.0
+1  1400/EBY/YHRB1/MPV            137.0         0.0
+2  8160/QHD/JG3B9/EST            108.0       107.0
+3  5640/MLC/CNPB4/5HT            411.0       407.0
+4  5640/MLC/BWQB5/5HT              5.0        21.0
+5  5640/NCC/YFDC9/2CP            259.0       253.0
+6  2840/MMB/ZEHB9/MPV            148.0       146.0
+7  6600/CKD/AGBB1/EST             57.0        99.0
+8   800/CMA/ETAB4/5HT            220.0       173.0
+9   800/HAC/ZMAE3/4SL             43.0        42.0
+
+               unique  2017 (original)  2017 (new)
+0  3520/ZAA/APAZ9/5HT             17.0        12.0
+1  5640/MLC/CMPB4/5HT            230.0       227.0
+2   360/DVE/RBJB9/EST             52.0        53.0
+3   800/HAC/EMAC9/2CP            352.0       347.0
+4  6600/CKD/GWKB9/EST            222.0       221.0
+5  7120/CLC/FSTB3/5HT           3763.0       719.0
+6  4340/RIQ/BBKB1/5HT             48.0        47.0
+7  8000/GRA/TNCB1/5HT              0.0         4.0
+8  7335/FDB/PTTA8/5HT              7.0        19.0
+9  2369/GSA/CPQB1/3HT            468.0       463.0
+
+               unique  2016 (original)  2016 (new)
+0  5640/NCC/DTJB5/4SL             18.0        17.0
+1  3702/QXG/SPHB4/5HT              0.0        91.0
+2  8000/FWC/LEEA9/3HT            751.0       748.0
+3  5640/NCC/IBPC1/4SL            111.0       123.0
+4  1400/EBS/PARB1/5HT            501.0       497.0
+5   800/EAA/ESAB9/2CP             14.0        30.0
+6   360/DWA/TSAB7/2CN              1.0         0.0
+7  8160/QHC/SGKB9/EST             30.0        31.0
+8   360/DWA/JPAB9/3HT            347.0       291.0
+9   800/CMA/DTAB9/2CN             79.0        78.0
+
+               unique  2015 (original)  2015 (new)
+0  7480/LFA/BDOB5/EST            165.0       164.0
+1  5640/MMB/HSHC1/MPV             36.0        49.0
+2  7480/ZAA/JPAZ9/EST              9.0         7.0
+3  8160/QWX/TCMC4/EST             12.0       150.0
+4   800/RYB/XCXB9/EST           1051.0      1044.0
+5   800/EAA/ESAB9/2CP              7.0        16.0
+6  5705/MIN/COJB5/3HT              0.0         3.0
+7   800/EAA/JMAB9/2CN             33.0       230.0
+8   800/RTA/SESB9/EST             13.0         8.0
+9  5705/PAA/XAAB5/3HT             25.0        70.0
+
+               unique  2014 (original)  2014 (new)
+0  3680/IDA/PSHB6/4SL             21.0        20.0
+1   680/ZAA/NTAZ9/4SL              4.0         0.0
+2  5720/SIB/BAHD1/EST             70.0        34.0
+3  6200/OAB/ASDB1/5HT           1766.0        25.0
+4  4340/PIB/BBAA9/5HT              0.0         1.0
+5   800/EAA/JLAB9/2CP             44.0        42.0
+6   800/RYB/XFXC9/EST            154.0       155.0
+7   360/DYC/QAJB9/EST            279.0       177.0
+8   360/DWA/TQQB9/2CN             14.0         0.0
+9  7320/YEA/MCLB9/5HT             13.0        12.0
+
+               unique  2013 (original)  2013 (new)
+0  6600/BHE/AEFB5/2CN            345.0       338.0
+1  7720/ORE/IDVB3/5HT            156.0       155.0
+2  8000/CAB/SAEA9/5HT           1208.0      1197.0
+3  7720/IQQ/CBAA9/3HT            451.0       447.0
+4   800/EAA/JNAB9/2CP              1.0         3.0
+5   800/SAA/AZXC9/EST              1.0         4.0
+6  6600/EIS/TSIB5/MPV              3.0         2.0
+7   800/CCA/KWAB9/2CN            104.0        92.0
+8  5640/NCB/KCCD4/2CP             23.0        24.0
+9  2840/GNB/TXJB5/5HT             81.0        80.0
+
+               unique  2012 (original)  2012 (new)
+0  6200/NOA/VIAB3/MPV            251.0       250.0
+1   360/DZC/SEJE1/4SL             43.0        40.0
+2  5640/NCB/CTJC1/EST              3.0         2.0
+3  2840/KUB/TKJB9/5HT             24.0        27.0
+4  2720/DFB/TXAA8/3HT            898.0       879.0
+5  8120/LRC/HIJB9/EST            467.0       461.0
+6  8000/SEB/LIMB6/MPV              8.0         6.0
+7  8120/LRC/SEJB9/EST            853.0       831.0
+8  8160/QKB/SGJB9/4SL              5.0         8.0
+9  6200/OAA/NUJB4/5HT           7728.0      7691.0
+
+               unique  2011 (original)  2011 (new)
+0   800/GDC/DSJB9/4SL             40.0         4.0
+1  5640/NCB/FEEB7/EST             31.0        29.0
+2  2840/TZA/GRAZ9/2CP             35.0        39.0
+3  5640/NLB/ETJC1/4SL             15.0        13.0
+4  2840/FDC/TIDB5/5HT            374.0       373.0
+5   800/SAB/XJJE3/EST             18.0        16.0
+6  8120/JUC/MAHB5/3HT            351.0       348.0
+7  7120/BKB/SPTB1/EST             57.0        55.0
+8  8160/ZAA/SWAZ9/EST              2.0         5.0
+9  2840/FOC/TITB5/EST            120.0       119.0
+
+               unique  2010 (original)  2010 (new)
+0  4080/LCC/MSOC9/EST            229.0       228.0
+1  8000/DDB/CITB3/5HT            514.0       478.0
+2  4340/CEA/BMJB5/EST            399.0         0.0
+3  1400/LQA/BBLB2/MPV             21.0        19.0
+4  2840/MMA/EDJB7/MPV             52.0        46.0
+5   360/DVD/TBAB9/EST             32.0        33.0
+6  4340/SOC/KXKC1/EST            210.0       222.0
+7   360/DVC/UTEB9/2CN              0.0         1.0
+8  6600/BHE/GTXB5/2CN             51.0         4.0
+9  6760/RXD/PTHB4/EST            140.0       131.0
+
+               unique  2009 (original)  2009 (new)
+0   800/DDB/GSAC9/2CP             20.0        24.0
+1   360/FTC/RTAB9/2CP             68.0        67.0
+2  2840/FOB/ZAAB5/EST            401.0       397.0
+3  3520/AVC/EXDB9/4SL            307.0       181.0
+4  4600/DBB/BIDE9/EST            252.0       249.0
+5  5640/MMA/FSJB9/MPV            612.0       159.0
+6  8160/QXA/DRXC4/EST              0.0        15.0
+7   360/DVD/TAJB9/4SL            967.0       927.0
+8  1094/BLA/ELAB9/4SL              9.0         4.0
+9  4600/ZAA/ZDAZ9/5HT             12.0        11.0
+
+               unique  2008 (original)  2008 (new)
+0  1840/MAA/ABAB4/5HT            217.0        90.0
+1  7320/HOB/ELWB7/5HT             52.0         0.0
+2  5640/MLB/DDAB6/5HT             47.0        43.0
+3   800/CCA/FEAB9/3HT             53.0        49.0
+4  6600/CKC/SPAB5/5HT           2299.0       566.0
+5  7335/CIA/PAEA6/2CP              0.0         1.0
+6  6600/CKC/SEJB9/5HT             40.0        35.0
+7  6760/RXC/UCMB8/MPV             26.0       177.0
+8  5560/ACG/TTAB9/5HT             39.0         0.0
+9  5800/DAA/BAAE3/2CN             16.0        17.0
+
+               unique  2007 (original)  2007 (new)
+0  7335/ZAA/ZZZA9/2CP              1.0         0.0
+1  8160/ZAA/SWJZ9/3HT             11.0        10.0
+2  8000/PAC/SSAB7/5HT            388.0       297.0
+3  6200/SXA/AVAC4/EST             12.0         9.0
+4   800/CCA/GAAB9/5HT             54.0        50.0
+5  8000/FWB/DEHB2/3HT            668.0       514.0
+6  8160/QGA/SPJB9/EST            213.0       189.0
+7  5560/ABD/BAVB5/5HT            176.0       141.0
+8   800/DDD/28NB9/4SL              0.0         1.0
+9  8000/SCB/ABEB9/MPV             73.0        67.0
+
+Sample Rows Only in original (First 10 Columns)
+-----------------------------------------------
+
+   mpvc  mpmakecode mprangecode mpmodelcode        make  model range        model variant series cofo body
+0   1.0       800.0         AEA       BAAB5         BMW         1602                 1602    114   GR  4SL
+1   1.0      8000.0         SEA       AEAB7    VAUXHALL       ZAFIRA  ZAFIRA ELEGANCE 16V  TO600   GR  5HT
+2   1.0      8000.0         DAA       BLAB5    VAUXHALL        ASTRA            ASTRA L D    MK1   UK  3HT
+3   1.0      6200.0         EAA       SRAB5      NISSAN       ALMERA           ALMERA SRI    N15   JP  4SL
+4   1.0      8160.0         QFA       BEAB5       VOLVO    40 SERIES                V40 M    MK1   NL  4SL
+5   1.0      5720.0         ROA       ABAA6  MITSUBISHI     TOWN BOX             TOWN BOX    NaN   JP  MPV
+6   1.0      8000.0         PAB       RDUB9    VAUXHALL       VECTRA     VECTRA SRI T NAV    J02   GR  EST
+7   1.0      6200.0         ZAA       SPJZ9      NISSAN  UNSPECIFIED        UNSPECIFIED D    NaN   SP  4SL
+8   1.0      6600.0         EJA       KPEZ9     PEUGEOT  UNSPECIFIED        UNSPECIFIED E    NaN   FR  3HT
+9   1.0      8000.0         ESA       LAAB7    VAUXHALL      CARLTON            CARLTON L    MK2   GR  4SL
+
+Sample Rows Only in new (First 10 Columns)
+------------------------------------------
+
+   mpvc  mpmakecode mprangecode mpmodelcode           make     model range                   model variant series cofo body
+0   1.0       800.0         AAL       BAAD2            BMW          ALPINA                       ALPINA B3    NaN   GR  2SL
+1   1.0       360.0         FTD       AT1B9           AUDI              TT        TT SPORT ED 45 TFSI QUAT      3   GR  2CN
+2   1.0      6640.0         QAA       OJMZ9        PORSCHE          TAYCAN         TAYCAN 4S CROSS TURISMO     J1   GR  EST
+3   1.0      2840.0         LQB       BTGA9           FORD            PUMA       PUMA ST-LINE VIGNALE MHEV  BX726   RM  5HT
+4   1.0      5640.0         MLD       SCHB3  MERCEDES-BENZ         A-CLASS   A 250 AMG LINE ED PREMIUM E A    177   GR  4SL
+5   1.0      8000.0         FWD       EEIZ9       VAUXHALL           CORSA             CORSA E SRI PREMIUM   P2JO   SP  5HT
+6   1.0      8000.0         GRA       HNLB5       VAUXHALL     GRANDLAND X      GRANDLAND X SRI NAV HYBRID   3630   GR  5HT
+7   1.0      2840.0         FOD       BRVA9           FORD           FOCUS        FOCUS ZETEC EDITION MHEV   C519   GR  5HT
+8   1.0       800.0         EAB       BUSB9            BMW        4 SERIES                    430I M SPORT     GX   GR  4SL
+9   1.0      2369.0         GWM       DXAB4             DS  DS 7 CROSSBACK  DS7 CROSSBACK RIVOLI BHDI SS A    X74   FR  5HT
+
+
+
+Unique rows: df1       mpvc  mpmakecode mprangecode  ... 2006 pre-2006              unique
+15      1.0        30.0         DEA  ...  0.0      0.0    30/DEA/ABCB3/2CN
+16      1.0        30.0         DEA  ...  0.0      0.0    30/DEA/ABCB3/2CN
+95      1.0       160.0         BIA  ...  0.0      1.0   160/BIA/TIAB9/4SL
+265     1.0       160.0         CCB  ...  0.0      1.0   160/CCB/TSAB5/4SL
+275     1.0       160.0         CCB  ...  0.0      2.0   160/CCB/TSVB5/EST
+...     ...         ...         ...  ...  ...      ...                 ...
+69371   1.0      9999.0         ZZA  ...  0.0     20.0  9999/ZZA/AAAZ9/4SL
+69372   1.0      9999.0         ZZA  ...  0.0      1.0  9999/ZZA/AAAZ9/5HT
+69373   1.0      9999.0         ZZA  ...  8.0    652.0  9999/ZZA/AAAZ9/EST
+69374   1.0      9999.0         ZZA  ...  0.0      1.0  9999/ZZA/AAAZ9/MPV
+69375   1.0      9999.0         ZZA  ...  0.0    214.0  9999/ZZA/AAAZ9/OTH
+
+[1410 rows x 30 columns]
+
+Unique rows: df2       mpvc  mpmakecode mprangecode  ... 2007 pre-2007              unique
+69376   1.0        30.0         DEA  ...  0.0      0.0    30/DEA/A1AB3/3HT
+69377   1.0        30.0         DEA  ...  0.0      0.0    30/DEA/A1CB3/2CN
+69378   1.0       160.0         SDB  ...  0.0      0.0   160/SDB/AAGB5/5HT
+69379   1.0       160.0         TUM  ...  0.0      0.0   160/TUM/AALC1/EST
+69380   1.0       160.0         TUM  ...  0.0      0.0   160/TUM/AAMB9/EST
+...     ...         ...         ...  ...  ...      ...                 ...
+74069   1.0      8160.0         QWB  ...  0.0      0.0  8160/QWB/ICSB9/EST
+74070   1.0      8160.0         QWB  ...  0.0      0.0  8160/QWB/IDYB9/EST
+74071   1.0      8160.0         QXB  ...  0.0      0.0  8160/QXB/IDHB9/EST
+74072   1.0      8160.0         QXB  ...  0.0      0.0  8160/QXB/IDVB9/EST
+74073   1.0      8160.0         QXB  ...  0.0      0.0  8160/QXB/RDSB9/EST
+
+[4698 rows x 30 columns]
+
+Unique columns: df1
+OrderedSet(['2006', 'pre-2006'])
+
+Unique columns: df2
+OrderedSet(['2021', 'pre-2007'])

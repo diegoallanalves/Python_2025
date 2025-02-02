@@ -1,0 +1,1460 @@
+
+
+Nulls values by columns in the data: [Parc].[dbo].[SVT_12]  <bound method NDFrame._add_numeric_operations.<locals>.sum of Unique                                  2
+DVLA_MAKE_CODE                        286
+DVLA_MODEL_CODE                         2
+DVLA_DESCRIPTION                   229987
+MVRIS_MAKE_CODE                         2
+                                    ...  
+MCRISModel                         233821
+Source                             140020
+entered                            240983
+OLDVEHICLE_CATEGORY_CODE             1019
+OLDVEHICLE_CATEGORY_DESCRIPTION      1019
+Length: 91, dtype: int64>
+
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Unique - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DVLA_MAKE_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DVLA_MODEL_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DVLA_DESCRIPTION - 95%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MVRIS_MAKE_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MVRIS_MODEL_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MVRISCODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: VEHICLE_CATEGORY_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: VEHICLE_CATEGORY_DESCRIPTION - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: INTRO_DATE - 47%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MARQUE - 1%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MODEL_RANGE - 13%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: RANGE_SERIES - 39%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MODEL_YEAR - 54%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: VARIANT - 2%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: CC - 10%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: NOM_CC - 22%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DOORS - 46%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: BODY_TYPE - 11%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: TRANSMISSION - 15%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: FUEL - 2%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ASPIRATION - 14%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: COUNTRY_OF_ORIGIN - 4%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DRIVE_TYPE - 7%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ENGINE_LOCATION - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: DRIVING_AXLE - 29%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: FORWARD_GEARS - 41%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: SEATS - 53%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ENGINE_MAKE - 19%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ENGINE_MODEL - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ENGINE_CONFIGURATION - 68%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: FUEL_DELIVERY - 70%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: BORE - 71%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: STROKE - 38%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: NO_CYLINDERS - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: VALVES_PER_CYLINDER - 38%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: VALVE_GEAR - 33%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: POWER_KW - 59%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: CALC_BHP - 58%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: POWER_RPM - 62%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: TORQUE_NM - 30%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: TORQUE_LBFT - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: TORQUE_RPM - 30%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MAX_SPEED_MPH - 41%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MAX_SPD_KPH - 41%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ACCELERATION_0_100_KPH - 60%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: URBAN_COLD_MPG - 64%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: URBAN_COLD_LITRE_100_KMS - 46%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: EXTRA_URBAN_MPG - 64%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: EXTRA_URBAN_LITRE_100_KMS - 46%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: COMBINED_MPG - 64%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: COMBINED_LITRE_100_KMS - 46%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: CO2 - 46%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: LENGTH - 37%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: WIDTH - 36%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: HEIGHT - 38%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: WHEELBASE - 63%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MARKET_SEGMENT - 38%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: GVW - 47%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: PAYLOAD - 73%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: UNLADEN_WEIGHT - 60%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: KERB_WEIGHT_MIN - 45%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: EURO_STATUS - 32%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: TERMINATION_DATE - 92%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_VC - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_MAKE_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_RANGE_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_MODEL_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_TRANS_IND - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Make - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ModelRange - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ModelVariant - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: ModelTrim - 43%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Series - 49%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: CofO - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MPPT_CC - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MPPT_Fuel - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Turb - 55%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Inj - 71%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: 4x4 - 92%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Seg - 49%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MP_BODY - 36%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Eng - 84%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: BHP - 84%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: E10 - 70%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MCRISMake - 96%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: MCRISModel - 96%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: Source - 58%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: entered - 99%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: OLDVEHICLE_CATEGORY_CODE - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: OLDVEHICLE_CATEGORY_DESCRIPTION - 0%
+
+
+Cross variance results:DataComPy Comparison
+--------------------
+
+DataFrame Summary
+-----------------
+
+  DataFrame  Columns    Rows
+0  original       90  128138
+1       new       91  243058
+
+Column Summary
+--------------
+
+Number of columns in common: 90
+Number of columns in original but not in new: 0
+Number of columns in new but not in original: 1
+
+Row Summary
+-----------
+
+Matched on: unique
+Any duplicates on match values: Yes
+Absolute Tolerance: 0.0001
+Relative Tolerance: 0
+Number of rows in common: 128,138
+Number of rows in original but not in new: 0
+Number of rows in new but not in original: 114,920
+
+Number of rows with some compared columns unequal: 128,115
+Number of rows with all compared columns equal: 23
+
+Column Comparison
+-----------------
+
+Number of columns compared with some values unequal: 81
+Number of columns compared with all values equal: 9
+Total number of values which compare unequal: 2,638,999
+
+Columns with Unequal Values or Types
+------------------------------------
+
+                             Column original dtype new dtype  # Unequal  Max Diff  # Null Diff
+70                              4x4         object    object       7967      0.00         7967
+39           acceleration_0_100_kph        float64   float64      46296      0.00        46296
+15                       aspiration         object    object      20390      0.00        20390
+73                              bhp         object    object      22540      0.00        22540
+12                        body_type         object    object      10719      0.00        10719
+26                             bore        float64    object      93897    928.09        63099
+32                         calc_bhp        float64   float64     113449    999.00        82079
+9                                cc        float64   float64      14289      0.00        14289
+46                              co2        float64   float64      36286      0.00        36286
+65                             cofo         object    object        282      0.00          282
+45           combined_litre_100_kms        float64   float64      35870      0.00        35870
+44                     combined_mpg        float64   float64      41449      0.00        41449
+16                country_of_origin         object    object       8887      0.00         8887
+11                            doors        float64   float64      39869      0.00        39869
+17                       drive_type         object    object      14198      0.00        14198
+19                     driving_axle         object    object      43577      0.00        43577
+1                  dvla_description         object    object      23654      0.00        23590
+0                    dvla_make_code         object    object        285      0.00          285
+72                              eng         object    object      22540      0.00        22540
+24             engine_configuration         object    object      84244      0.00        61833
+18                  engine_location         object    object      43547      0.00        43547
+22                      engine_make         object    object      41531      0.00        41531
+23                     engine_model         object    object      42057      0.00        42057
+77                          entered         object    object       1960      0.00         1960
+56                      euro_status         object    object      27507      0.00        27507
+43        extra_urban_litre_100_kms        float64   float64      35865      0.00        35865
+42                  extra_urban_mpg        float64   float64      41416      0.00        41416
+20                    forward_gears        float64   float64      40878      0.00        40878
+14                             fuel         object    object       3801      0.00         3801
+25                    fuel_delivery         object    object      72880      0.00        65482
+52                              gvw        float64   float64      22953      0.00        22953
+49                           height        float64   float64      32675      0.00        32675
+69                              inj         object    object      51987      0.00        51987
+3                        intro_date         object    object     127962      0.00          822
+55                  kerb_weight_min        float64   float64      36603      0.00        36603
+47                           length        float64   float64      32968      0.00        32968
+60                             make         object    object         24      0.00           24
+51                   market_segment         object    object      42844      0.00        42844
+4                            marque         object    object       1941      0.00         1941
+38                      max_spd_kph        float64   float64      39631      0.00        39631
+37                    max_speed_mph        float64   float64      39619      0.00        39619
+74                        mcrismake         object    object       4501      0.00         4501
+75                       mcrismodel         object    object       4501      0.00         4501
+5                       model_range         object    object      29899      0.00        29899
+7                        model_year         object    object      22950      0.00        22950
+61                       modelrange         object    object      32859      0.00        32859
+63                        modeltrim         object    object      40273      0.00        40273
+62                     modelvariant         object    object         31      0.00           31
+78                          mp_body         object    object      35657      0.00        35657
+59                     mp_trans_ind         object    object      32940      0.00        32940
+58                            mp_vc        float64   float64         24      0.00           24
+66                          mppt_cc         object    object        355      0.00          355
+67                        mppt_fuel         object    object      32800      0.00        32800
+28                     no_cylinders        float64   float64      42586      0.00        42586
+10                           nom_cc        float64   float64      36967      0.00        36967
+79         oldvehicle_category_code         object    object       1001      0.00         1001
+80  oldvehicle_category_description         object    object       1001      0.00         1001
+53                          payload        float64   float64      20222      0.00        20222
+31                         power_kw        float64    object     110055   1277.00        53648
+33                        power_rpm        float64   float64     104267  52900.00        57771
+6                      range_series         object    object      39970      0.00        39970
+21                            seats        float64   float64      32668      0.00        32668
+71                              seg         object    object      41089      0.00        41089
+64                           series         object    object      39495      0.00        39495
+76                           source         object    object      11721      0.00        11721
+27                           stroke        float64   float64      39791      0.00        39791
+57                 termination_date         object    object      18289      0.00        18287
+35                      torque_lbft        float64   float64      42581      0.00        42581
+34                        torque_nm        float64   float64      42878      0.00        42878
+36                       torque_rpm        float64   float64      42925      0.00        42925
+13                     transmission         object    object      19729      0.00        19729
+68                             turb         object    object      23707      0.00        23707
+54                   unladen_weight        float64   float64      15253      0.00        15253
+41         urban_cold_litre_100_kms        float64   float64      35862      0.00        35862
+40                   urban_cold_mpg        float64   float64      41424      0.00        41424
+30                       valve_gear         object    object      42491      0.00        42491
+29              valves_per_cylinder        float64   float64      39715      0.00        39715
+8                           variant         object    object       4078      0.00         4078
+2             vehicle_category_code         object    object         28      0.00           28
+50                        wheelbase         object    object      17249      0.00        17249
+48                            width        float64   float64      33830      0.00        33830
+
+Sample Rows with Unequal Values
+-------------------------------
+
+       unique dvla_make_code (original) dvla_make_code (new)
+100114  J7LEV                        N0                  NaN
+103744  J7SJT                        P1                  NaN
+103698  J7SCC                        P1                  NaN
+88070   J7LKK                        M2                  NaN
+103731  J7SEZ                        P1                  NaN
+103696  J7SCA                        P1                  NaN
+87669   J7AWG                        MM                  NaN
+100118  J7LEZ                        N0                  NaN
+97788   J7AWR                        M8                  NaN
+100639  J7AGA                        PR                  NaN
+
+       unique dvla_description (original) dvla_description (new)
+2851    56196                         NaN       CARADO T334 AUTO
+87612   J7AUB                 UNSPECIFIED                    NaN
+59773   47409        3008 ACTIVE HDI AUTO                    NaN
+4223    J7KAV                         NaN            DAILY 35C16
+57456   B3AUA         PARTNER TEPEE URBAN                    NaN
+123346  L2BVG                  SPLASH SZ4                    NaN
+72449   36683                  120I SPORT                    NaN
+8385    57374                         NaN            FE 450 2021
+6403    U1AKC                         NaN          D-MAX UTILITY
+70947   54766                                                NaN
+
+       unique vehicle_category_code (original) vehicle_category_code (new)
+104790  H1BCD                               HB                         NaN
+104793  H1BCI                               HB                         NaN
+123096  L8EAC                               AA                         NaN
+123089  L8DDE                               AA                         NaN
+123088  L8DCB                               AA                         NaN
+104784  H1BAZ                               HB                         NaN
+104781  H1BAW                               GA                         NaN
+123097  L8ECB                               AA                         NaN
+104791  H1BCG                               HB                         NaN
+104779  H1BAB                               GA                         NaN
+
+       unique intro_date (original) intro_date (new)
+11631   23602   1990-03-01 00:00:00         00:00:00
+51559   48306   2005-11-01 00:00:00         00:00:00
+115467  M0EKH   1993-09-01 00:00:00         00:00:00
+126572  L5AMV   1995-03-01 00:00:00         00:00:00
+99871   J5CQC   2009-06-01 00:00:00         00:00:00
+87136   J7DDS   2011-06-17 00:00:00         00:00:00
+114717  M0HGB   2010-03-01 00:00:00         00:00:00
+111710  J7JHU   2007-03-19 00:00:00         00:00:00
+13662    9575   1979-01-01 00:00:00         00:00:00
+77074   36764   2004-09-01 00:00:00         00:00:00
+
+      unique marque (original) marque (new)
+80007  42721              FORD          NaN
+75655  75489              FORD          NaN
+57565  34514           PEUGEOT          NaN
+68324  55702               BMW          NaN
+17343  42763             HONDA          NaN
+24447  56017            AUSTIN          NaN
+57615  34564           CITROEN          NaN
+19874  75196              FORD          NaN
+79998  42712              FORD          NaN
+46583  42842               DAF          NaN
+
+      unique model_range (original) model_range (new)
+54365  49564                     C5               NaN
+58331  38977                 MEGANE               NaN
+20255  26939                   GOLF               NaN
+39961  48077                 ZAFIRA               NaN
+71048  40955                  KERAX               NaN
+26088  45625                 VECTRA               NaN
+3050   57027                AVENGER               NaN
+22965  14930                     EC               NaN
+76138  41129                  FOCUS               NaN
+57320  49622                    206               NaN
+
+      unique range_series (original) range_series (new)
+68568  46422                     E46                NaN
+36819  10970                     MK1                NaN
+80595  46909                    C346                NaN
+37680  25149                     T98                NaN
+64013  52354                     X61                NaN
+78451  B7BRI                     208                NaN
+58150  48444                      G9                NaN
+25803   6380                   A3300                NaN
+68787  43806                      L4                NaN
+37961  12416                    4400                NaN
+
+       unique model_year (original) model_year (new)
+118223  L1CFB                  2010              NaN
+63964   D0AXT                  2010              NaN
+41579   15845                  93MY              NaN
+82008   38508                  2012              NaN
+100635  J7AFW                  2009              NaN
+122997  L2AET                  2010              NaN
+41355   30949                  89MY              NaN
+85028   D8VJD                  2012              NaN
+66834   53614                  2009              NaN
+125337  L0CBV                  2008              NaN
+
+       unique          variant (original) variant (new)
+65760   75261                         GTS           NaN
+55021   34429                       SPORT           NaN
+101699  J3BPP        FM7 6X2ARIDERSUS TSC           NaN
+34257    5631                        CLUB           NaN
+57343   49645                 290 MWB HDI           NaN
+75644   75478                  XLT 4X4 TD           NaN
+13413   75918                     STALKER           NaN
+57259   7Y349                        BASE           NaN
+58073   7Y360          290 LX MWB HDI S/R           NaN
+85601   J7CKZ  311 CDI MWB SIDE ENTRY BUS           NaN
+
+       unique  cc (original)  cc (new)
+40850    5741         1910.0       NaN
+85811   J7BPZ         3197.0       NaN
+85672   J7CNS         1699.0       NaN
+102948  J7EJX        12777.0       NaN
+112410  J7DYD         1896.0       NaN
+40846    5737         1910.0       NaN
+31550   32788         1398.0       NaN
+39498    1661         2969.0       NaN
+96768   J7CPP        12777.0       NaN
+39105   32668         1598.0       NaN
+
+       unique  nom_cc (original)  nom_cc (new)
+41773   28783                2.3           NaN
+54280   49479                3.0           NaN
+123554  L5GLW                1.8           NaN
+17183   22492                3.0           NaN
+24969   28219                1.4           NaN
+34589   24762                2.0           NaN
+68637   46491                2.5           NaN
+65186   B7JMP               10.8           NaN
+81778   C5XBJ                2.1           NaN
+32579   30628                1.6           NaN
+
+       unique  doors (original)  doors (new)
+31620   32858               5.0          NaN
+58802   41985               5.0          NaN
+56730   B7DLW               5.0          NaN
+60980   55436               3.0          NaN
+75031   42441               5.0          NaN
+77052   36742               5.0          NaN
+124362  L5JQS               5.0          NaN
+2356    L1JJF               5.0          NaN
+81424   C5QFC               3.0          NaN
+6597    N1KIK               2.0          NaN
+
+       unique body_type (original) body_type (new)
+111778  J7JKK               SALOON             NaN
+88273   J7FOX               SALOON             NaN
+46641   43000              DAY CAB             NaN
+91684   J7HOU        MOTOR CARAVAN             NaN
+80003   42717            HATCHBACK             NaN
+121160  L5IXG            HATCHBACK             NaN
+37297    8424               ESTATE             NaN
+73675   B7DQQ               SALOON             NaN
+120382  L5HDD               SALOON             NaN
+96286   J7JSK          SLEEPER CAB             NaN
+
+       unique transmission (original) transmission (new)
+84833   J3BCT                  MANUAL                NaN
+57231   7Y321                  MANUAL                NaN
+10705     645               AUTOMATIC                NaN
+95127   J7MBP               AUTOMATIC                NaN
+41843   18566                  MANUAL                NaN
+118812  L5AKG               AUTOMATIC                NaN
+15683   19963                  MANUAL                NaN
+126699  L5ART                  MANUAL                NaN
+32769   19173                  MANUAL                NaN
+57637   34586                  MANUAL                NaN
+
+      unique fuel (original) fuel (new)
+34614  24787          PETROL        NaN
+34673  24846          DIESEL        NaN
+54927  34008          DIESEL        NaN
+17767  24925          PETROL        NaN
+17759  24917          PETROL        NaN
+34685  24858          DIESEL        NaN
+34517  24690          PETROL        NaN
+34519  24692          PETROL        NaN
+32003  23152          PETROL        NaN
+24425  75682          PETROL        NaN
+
+       unique aspiration (original) aspiration (new)
+103658  J7RCT                 TURBO              NaN
+32033   23182   NATURALLY ASPIRATED              NaN
+30991   21359   NATURALLY ASPIRATED              NaN
+32760   19164   NATURALLY ASPIRATED              NaN
+88780   G9ABT                 TURBO              NaN
+92811   J3PDD   NATURALLY ASPIRATED              NaN
+88989   J4KRB                 TURBO              NaN
+79993   42707   NATURALLY ASPIRATED              NaN
+57520   34469                 TURBO              NaN
+65970   34887                 TURBO              NaN
+
+      unique country_of_origin (original) country_of_origin (new)
+3283   57396                      GERMANY                     NaN
+71397  35181                       FRANCE                     NaN
+14088  22959                        ITALY                     NaN
+57675  34624                        SPAIN                     NaN
+7656   57307                       GREECE                     NaN
+67020  50236                       FRANCE                     NaN
+10636  57284                      HOLLAND                     NaN
+74738  43972                      GERMANY                     NaN
+14018  22889                      GERMANY                     NaN
+61036  55492                       FRANCE                     NaN
+
+      unique drive_type (original) drive_type (new)
+57371  49675                   4X2              NaN
+20818  22226                   4X2              NaN
+57779  43431                   4X2              NaN
+53683  55158                   4X2              NaN
+39341  16442                   4X2              NaN
+36138  20755                   4X2              NaN
+33681  22648                   4X2              NaN
+57515  34464                   4X2              NaN
+34403  15045                   4X2              NaN
+12273  24062                   4X2              NaN
+
+       unique engine_location (original) engine_location (new)
+72463   36697                      FRONT                   NaN
+30050   29271                      FRONT                   NaN
+112174  J4AVJ                      FRONT                   NaN
+33053   26628                      FRONT                   NaN
+48091   37235                      FRONT                   NaN
+28662   12270                      FRONT                   NaN
+88916   J4KOE                      FRONT                   NaN
+58567   52180                      FRONT                   NaN
+35834   30801                      FRONT                   NaN
+54991   34100                      FRONT                   NaN
+
+      unique driving_axle (original) driving_axle (new)
+77430  38366                   FRONT                NaN
+51227  8X844                    REAR                NaN
+39886  18121                    REAR                NaN
+72373  36607                    REAR                NaN
+80411  35565                   FRONT                NaN
+78214  45577                   FRONT                NaN
+26804  17972         ALL - PERMANENT                NaN
+54493  B7CCJ                   FRONT                NaN
+83728  J4VCT                    REAR                NaN
+71122  41029                    REAR                NaN
+
+       unique  forward_gears (original)  forward_gears (new)
+111864  J7DRR                       5.0                  NaN
+73969   C5ACJ                       6.0                  NaN
+62800   39291                       6.0                  NaN
+96449   J7BVX                       5.0                  NaN
+116506  L5KGD                       6.0                  NaN
+123484  L5GJE                       5.0                  NaN
+64813   48783                       5.0                  NaN
+68678   46532                       5.0                  NaN
+78631   B7BUG                       5.0                  NaN
+80006   42720                       6.0                  NaN
+
+       unique  seats (original)  seats (new)
+55880   54237               7.0          NaN
+9398    56096               5.0          NaN
+66800   53581               0.0          NaN
+27758   29969               5.0          NaN
+61059   55515               5.0          NaN
+36233   22410               5.0          NaN
+58358   39004               5.0          NaN
+112993  F1RKA               4.0          NaN
+89294   J7EBO               5.0          NaN
+84855   D8TAB               5.0          NaN
+
+      unique engine_make (original) engine_make (new)
+63418  42108           RENAULT CARS               NaN
+48760  33420                PERKINS               NaN
+64461  40751                RENAULT               NaN
+22059  25378         GENERAL MOTORS               NaN
+29871  20124                    DAF               NaN
+45908  52982                  VOLVO               NaN
+20096  26786                CITROEN               NaN
+30174  29395                   MINI               NaN
+17183  22492                   FORD               NaN
+29883  20136                    DAF               NaN
+
+       unique engine_model (original) engine_model (new)
+52011   43292               DV4TED-8V                NaN
+34599   24772                   X25TD                NaN
+29162   33046           PAC MX S2 375                NaN
+72109   38044                RENEUR01                NaN
+55093   44820                    DV4C                NaN
+105257  F1OOD                     VOL                NaN
+39314   16415            Z17 DTH 74KW                NaN
+21145   25264                CUMN425E                NaN
+74126   48927                  2.4/TD                NaN
+47727   41596                GAR6LXCT                NaN
+
+       unique engine_configuration (original) engine_configuration (new)
+85025   D8VJA                          INLINE                    IN LINE
+55581   B3BNF                             NaN                     INLINE
+66551   B2AGZ                          INLINE                        VEE
+124100  L1IJV                         IN LINE                     INLINE
+76844   49095                          INLINE                        NaN
+110858  D0IUP                         IN LINE                     INLINE
+58535   52148                         IN LINE                        NaN
+56981   B1AHK                          INLINE                    IN LINE
+49579   C1APK                             NaN                     INLINE
+33681   22648                         IN LINE                        NaN
+
+       unique fuel_delivery (original) fuel_delivery (new)
+31781   B3AJZ                      NaN      FUEL INJECTION
+95914   K3AFP                      NaN      FUEL INJECTION
+31715   B3AHL                      NaN      FUEL INJECTION
+124615  L2JEC                      NaN      FUEL INJECTION
+109987  D0LDZ              CARBURETTOR      FUEL INJECTION
+15648   19928              CARBURETTOR                 NaN
+39874   18109              CARBURETTOR                 NaN
+7174    N1KFK                      NaN      FUEL INJECTION
+106905  J7BZQ           FUEL INJECTION                 NaN
+104964  D0IPU                      NaN      FUEL INJECTION
+
+      unique  bore (original) bore (new)
+9611   C1BHP              NaN         82
+54250  49449            102.0        NaN
+93190  F1TWY             82.5        NaN
+81935  38435             82.0        NaN
+96968  L2CYH              NaN         76
+79145  D0ATD              NaN       80.5
+96919  L2CWK              NaN       82.7
+78213  45576             80.0        NaN
+99389  L0BAR              NaN         75
+48332  B7BGO              NaN        107
+
+       unique  stroke (original)  stroke (new)
+101512  J3PJZ              158.0           NaN
+40321   31994               85.0           NaN
+55975   54332               88.0           NaN
+93832   J4ADT               95.5           NaN
+52911   L1PAR               88.3           NaN
+84976   D8TPR               92.8           NaN
+27199   25715               81.5           NaN
+55391   36037               88.0           NaN
+38962    3667               86.0           NaN
+68012   55532              152.0           NaN
+
+      unique  no_cylinders (original)  no_cylinders (new)
+49416  54081                      4.0                 NaN
+81175  41243                      4.0                 NaN
+61286  34652                      4.0                 NaN
+64921  47544                      6.0                 NaN
+81594  36980                      8.0                 NaN
+36296  11581                      4.0                 NaN
+33726  22693                      4.0                 NaN
+31087  21455                      6.0                 NaN
+73709  56028                      6.0                 NaN
+32767  19171                      4.0                 NaN
+
+       unique  valves_per_cylinder (original)  valves_per_cylinder (new)
+62692   39183                             4.0                        NaN
+65837   45077                             4.0                        NaN
+77101   36791                             2.0                        NaN
+52017   43298                             4.0                        NaN
+81534   36920                             4.0                        NaN
+75909   35230                             4.0                        NaN
+118850  L5ALS                             4.0                        NaN
+64681   B1CGA                             4.0                        NaN
+30078   29299                             4.0                        NaN
+66796   53577                             4.0                        NaN
+
+       unique valve_gear (original) valve_gear (new)
+80450   46764                  DOHC              NaN
+31568   32806                  DOHC              NaN
+100317  J7AAX                  DOHC              NaN
+111040  J7ALR                  DOHC              NaN
+35491   26173                  DOHC              NaN
+31513   32751                  DOHC              NaN
+80549   46863                  DOHC              NaN
+79767   44220                  DOHC              NaN
+90820   F0TTB                  DOHC              NaN
+25736    6313                  DOHC              NaN
+
+       unique  power_kw (original) power_kw (new)
+15830   20833                 26.8            NaN
+73653   B7DPV                210.0            303
+63527   D8GLE                 57.5             55
+50515   L1FTB                135.7             81
+106653  J7HPW                237.1            107
+52489   D0ANP                  NaN             74
+110559  M1CNE                280.0           85.8
+84945   D8TKC                130.0            100
+113783  M1COD                120.0             74
+76231   41222                103.0            NaN
+
+      unique  calc_bhp (original)  calc_bhp (new)
+4048   J7KNT                  NaN           134.1
+96477  J7BWZ                 60.0             NaN
+66753  53535                430.0           140.0
+82553  D0GUT                138.1             NaN
+31592  32830                138.0           130.0
+87547  J7ARO                190.4             NaN
+88118  J7FIY                197.0             NaN
+38003  12458                155.0             NaN
+87289  D0JQC                163.1             NaN
+82675  D0JFJ                143.0             NaN
+
+       unique  power_rpm (original)  power_rpm (new)
+95872   J4BSP                4000.0           1700.0
+69597   C1AYE                1800.0           6500.0
+34574   24747                5400.0              NaN
+91700   D8FAP                3500.0           4400.0
+120911  L1ENT                6000.0           3500.0
+101489  J3PJA                1800.0              NaN
+126436  L5BQP                   NaN           3500.0
+128043  L2TCL                5400.0           3600.0
+121149  L5IWV                6500.0           1900.0
+70851   54670                5900.0              NaN
+
+       unique  torque_nm (original)  torque_nm (new)
+24098   27411                  16.4              NaN
+112309  J4BAQ                 195.0              NaN
+41927   18650                  86.0              NaN
+25047    3261                 185.0              NaN
+28644   12252                2350.0              NaN
+34638   24811                  85.0              NaN
+27752   29963                  10.2              NaN
+54008   47161                  71.5              NaN
+41965   18688                 128.0              NaN
+51992   43273                 300.0              NaN
+
+       unique  torque_lbft (original)  torque_lbft (new)
+31647   32885                   151.3                NaN
+41991   18714                    94.5                NaN
+76041   35362                   107.7                NaN
+62562   43598                   111.4                NaN
+89022   J4LRC                   206.6                NaN
+102326  J4ARD                   236.2                NaN
+77308   38244                   221.4                NaN
+91224   E3AAA                    80.0                NaN
+65251   B7LLV                  1327.0                NaN
+78324   47955                  1475.0                NaN
+
+       unique  torque_rpm (original)  torque_rpm (new)
+107076  J7CGF                 1100.0               NaN
+85476   D1RKJ                 1080.0               NaN
+101599  J3PNI                 1400.0               NaN
+81448   C5REW                 3000.0               NaN
+80353   35507                 1750.0               NaN
+41772   28782                 2000.0               NaN
+61708   37724                 3500.0               NaN
+66699   53484                 1750.0               NaN
+47796   46966                 1400.0               NaN
+24019   27333                 1400.0               NaN
+
+       unique  max_speed_mph (original)  max_speed_mph (new)
+96580   L5GCG                      79.0                  NaN
+55426   36072                     108.0                  NaN
+40902    5793                     111.0                  NaN
+120419  L5HEO                     110.0                  NaN
+76817   49068                     123.0                  NaN
+68595   46449                     140.0                  NaN
+76089   41080                      10.0                  NaN
+62268   36205                     124.0                  NaN
+61489   34779                      98.0                  NaN
+76686   51611                     127.0                  NaN
+
+       unique  max_spd_kph (original)  max_spd_kph (new)
+68618   46472                   232.0                NaN
+75045   42455                   166.0                NaN
+62947   B7BPW                   188.0                NaN
+34144    5518                   205.0                NaN
+23711   B7AHN                   227.0                NaN
+71993   47765                   249.0                NaN
+116215  L0BSL                   158.0                NaN
+41265   30859                   240.0                NaN
+82418   J7ERX                   220.0                NaN
+41516   15782                   146.0                NaN
+
+      unique  acceleration_0_100_kph (original)  acceleration_0_100_kph (new)
+38364  16964                               12.0                           NaN
+72264  38199                                9.6                           NaN
+34390  15032                               11.0                           NaN
+33897   6491                               18.0                           NaN
+68847  43866                                0.0                           NaN
+26540   5416                               12.2                           NaN
+38156  17421                               10.5                           NaN
+70737  51532                                8.7                           NaN
+10599  M1PTC                                8.5                           NaN
+25182   3396                               10.2                           NaN
+
+       unique  urban_cold_mpg (original)  urban_cold_mpg (new)
+116959  M2HZL                       25.0                   NaN
+88965   J4KQD                       37.2                   NaN
+105182  F1KCB                       16.9                   NaN
+62188   B7DAC                       31.7                   NaN
+68172   39409                        0.0                   NaN
+51253   8X870                        1.0                   NaN
+111507  F0CAH                        0.0                   NaN
+62463   B7BLU                       34.9                   NaN
+66795   53576                        0.0                   NaN
+38728   14493                       25.4                   NaN
+
+       unique  urban_cold_litre_100_kms (original)  urban_cold_litre_100_kms (new)
+78879   39791                                  1.0                             NaN
+74486   75401                                 14.3                             NaN
+120658  L2SAA                                  9.5                             NaN
+33148   26723                                 13.1                             NaN
+61371   7X090                                  6.8                             NaN
+54477   B7CBT                                  6.0                             NaN
+70188   B7ABV                                  7.7                             NaN
+31618   32856                                 12.2                             NaN
+31526   32764                                  6.2                             NaN
+64003   52344                                  5.8                             NaN
+
+       unique  extra_urban_mpg (original)  extra_urban_mpg (new)
+42057    7622                        55.4                    NaN
+112944  F1RCW                        48.7                    NaN
+32332   27986                        40.9                    NaN
+85666   J7CNM                        28.0                    NaN
+74364   75445                        58.9                    NaN
+77449   38385                         1.0                    NaN
+40289   22038                        46.3                    NaN
+113897  J4DTA                        50.4                    NaN
+59100   B7ARI                        49.6                    NaN
+28075   14300                         1.0                    NaN
+
+       unique  extra_urban_litre_100_kms (original)  extra_urban_litre_100_kms (new)
+74967   42380                                   1.0                              NaN
+111996  D0RJT                                   5.7                              NaN
+33099   26674                                   6.5                              NaN
+43892    8529                                   5.3                              NaN
+68747   43766                                   0.0                              NaN
+77954   A3ECA                                   3.9                              NaN
+74089   48891                                   1.0                              NaN
+80333   35487                                   1.0                              NaN
+30984   21352                                   5.7                              NaN
+61405   7X124                                   4.4                              NaN
+
+       unique  combined_mpg (original)  combined_mpg (new)
+116494  L5KFB                     48.7                 NaN
+60268   53445                     74.3                 NaN
+87035   J2AEU                     27.2                 NaN
+27329   11477                     35.8                 NaN
+110234  J3PYX                     37.7                 NaN
+36809   10960                     30.4                 NaN
+50804   45850                      1.0                 NaN
+124198  L0EHU                     47.9                 NaN
+89892   F0FFH                     47.9                 NaN
+87173   J7DFD                     23.9                 NaN
+
+       unique  combined_litre_100_kms (original)  combined_litre_100_kms (new)
+33153   26728                                6.7                           NaN
+126073  L1CRJ                                5.8                           NaN
+65862   45102                                0.0                           NaN
+37712   25181                                5.8                           NaN
+63967   D0AXW                                8.7                           NaN
+98717   F0ACT                                0.0                           NaN
+83940   J3CGR                                6.8                           NaN
+81355   41423                                8.3                           NaN
+31863   23012                                8.0                           NaN
+90066   F0JCR                                5.5                           NaN
+
+       unique  co2 (original)  co2 (new)
+111363  F0ATS             0.0        NaN
+23713   B7AHP           235.0        NaN
+38059   32567           197.0        NaN
+93199   F1TXK           224.0        NaN
+84016   J3CKY           254.0        NaN
+93126   F1TSP           199.0        NaN
+111818  J7JLY           222.0        NaN
+90656   D1ACT           274.0        NaN
+33634   13795           173.0        NaN
+32214   24335           155.0        NaN
+
+       unique  length (original)  length (new)
+101536  J3PKX                0.0           NaN
+112137  J4ATV             4572.0           NaN
+65953   34871                0.0           NaN
+36693   10844             4232.0           NaN
+41472   15738             4079.0           NaN
+32059   24180             4908.0           NaN
+85649   J7CMV             5206.0           NaN
+62569   43605             4560.0           NaN
+33372    9282             4908.0           NaN
+25149    3363             3990.0           NaN
+
+       unique  width (original)  width (new)
+35204   27267            1944.0          NaN
+59770   47406            1837.0          NaN
+70697   51492            1817.0          NaN
+25188    3402            1970.0          NaN
+26584    5460            2084.0          NaN
+43219    2834            1974.0          NaN
+119051  L5AME            1770.0          NaN
+41701   28711            1730.0          NaN
+79072   52863            1974.0          NaN
+90796   F0TRD            1931.0          NaN
+
+       unique  height (original)  height (new)
+74722   43956             1418.0           NaN
+26732   17900             1981.0           NaN
+64003   52344             1844.0           NaN
+57686   43338             1491.0           NaN
+33044   26619             1645.0           NaN
+34066   29153             1488.0           NaN
+30121   29342             1426.0           NaN
+70658   51453             1435.0           NaN
+126076  L1CRM             1450.0           NaN
+75911   35232             1468.0           NaN
+
+      unique wheelbase (original) wheelbase (new)
+35845  30812                 2580             NaN
+32379  28033      SHORT WHEELBASE             NaN
+13891  13395                 2490             NaN
+30063  29284      SHORT WHEELBASE             NaN
+31470   2442      SHORT WHEELBASE             NaN
+93752  L0AHI                 2335             NaN
+54043  47195     MEDIUM WHEELBASE             NaN
+94829  J2GVA     MEDIUM WHEELBASE             NaN
+30977  21345      SHORT WHEELBASE             NaN
+80370  35524      SHORT WHEELBASE             NaN
+
+       unique market_segment (original) market_segment (new)
+108744  J7HCF                 EXECUTIVE                  NaN
+71687   52671              UPPER MEDIUM                  NaN
+89727   J5TLK             LUXURY SALOON                  NaN
+34333   14975              LOWER MEDIUM                  NaN
+73305   B7BAT         SPECIALIST SPORTS                  NaN
+18679    2100              UPPER MEDIUM                  NaN
+5353    J7NAH             LUXURY SALOON                  NaN
+29969   30451              LOWER MEDIUM                  NaN
+72537   45283              DUAL PURPOSE                  NaN
+5742    J7MSC                     NAKED                  NaN
+
+       unique  gvw (original)  gvw (new)
+86302   D8CSG         28000.0        NaN
+46398   B1BKD         33000.0        NaN
+32938    3556          1710.0        NaN
+48162   C1AMI          4600.0        NaN
+127664  M0GSP             0.0        NaN
+81153   D0GJU          3300.0        NaN
+109421  D8GKA             0.0        NaN
+122509  M0EZI          6500.0        NaN
+61318   34684          3500.0        NaN
+54935   34016             0.0        NaN
+
+       unique  payload (original)  payload (new)
+67859   8X097                 0.0            NaN
+61294   34660              1595.0            NaN
+96637   L5GEL                 0.0            NaN
+68161   39399                 0.0            NaN
+76811   49062               704.0            NaN
+72887   8X380                 0.0            NaN
+53778   55251              1500.0            NaN
+44205    3928              1705.0            NaN
+45379   19272              1928.0            NaN
+103665  J7RDB                 0.0            NaN
+
+       unique  unladen_weight (original)  unladen_weight (new)
+93374   J3BLD                        0.0                   NaN
+92155   M0BBY                     1680.0                   NaN
+31705   B3AHB                        0.0                   NaN
+81394   C5PBR                     2071.0                   NaN
+78847   39759                     1776.0                   NaN
+84732   J3AYI                     2040.0                   NaN
+68789   43808                        0.0                   NaN
+90178   D0HKL                     1465.0                   NaN
+74614   53785                        0.0                   NaN
+102794  D8DSL                        0.0                   NaN
+
+       unique  kerb_weight_min (original)  kerb_weight_min (new)
+94418   J5AED                      1022.0                    NaN
+122659  L2ETV                      1128.0                    NaN
+58934   C5BCR                      1360.0                    NaN
+91041   F0VVA                      2080.0                    NaN
+31011   21379                      1548.0                    NaN
+38770   14535                      1357.0                    NaN
+91581   J7HKV                      1248.0                    NaN
+35734   30701                      1144.0                    NaN
+40900    5791                      1880.0                    NaN
+24551   21786                      1145.0                    NaN
+
+       unique euro_status (original) euro_status (new)
+41995   18718                    2.0               NaN
+110131  J3PSL                    3.0               NaN
+61606   D0CEL                    1.0               NaN
+112940  F1RCS                    4.0               NaN
+57621   34570                    4.0               NaN
+54999   34108                    5.0               NaN
+65972   34889                    5.0               NaN
+81735   B3XBC                    4.0               NaN
+111152  F0PMG                    2.0               NaN
+90802   F0TSC                    4.0               NaN
+
+       unique termination_date (original) termination_date (new)
+58102   8X019                  01/08/1992                    NaN
+121406  L0BUO                  01/03/1993                    NaN
+83153   J7FXQ                  01/10/1996                    NaN
+58875   52299                  06/09/2004                    NaN
+127782  L0EPM                  01/04/1997                    NaN
+97386   D8DGJ                  01/06/1998                    NaN
+41247   27879                  01/04/1995                    NaN
+94089   J7GXD                  01/12/1990                    NaN
+112621  L1HQG                  01/05/1996                    NaN
+80781   B2BKX                  01/04/1991                    NaN
+
+      unique  mp_vc (original)  mp_vc (new)
+55978  54335               1.0          NaN
+55993  54350               1.0          NaN
+55995  54352               6.0          NaN
+55984  54341               1.0          NaN
+55989  54346               4.0          NaN
+55981  54338               1.0          NaN
+55999  54356               1.0          NaN
+55987  54344               1.0          NaN
+55998  54355               1.0          NaN
+55997  54354               1.0          NaN
+
+       unique mp_trans_ind (original) mp_trans_ind (new)
+121872  L5EGF                       M                NaN
+85649   J7CMV                       A                NaN
+74285   C5BAJ                       A                NaN
+34203    5577                       A                NaN
+94891   J3AAP                       M                NaN
+12909   32502                       M                NaN
+113959  J4ELA                       M                NaN
+86735   J4BBD                       M                NaN
+125939  L5FLP                       M                NaN
+112338  J7DVJ                       M                NaN
+
+      unique make (original) make (new)
+55995  54352         CITROEN        NaN
+55989  54346         CITROEN        NaN
+55986  54343         CITROEN        NaN
+55984  54341         CITROEN        NaN
+55987  54344         CITROEN        NaN
+55990  54347         CITROEN        NaN
+55991  54348         CITROEN        NaN
+55979  54336         CITROEN        NaN
+55998  54355         CITROEN        NaN
+55996  54353         CITROEN        NaN
+
+       unique modelrange (original) modelrange (new)
+57326   49628                   207              NaN
+74798   44031                GALAXY              NaN
+20812   22220               CORTINA              NaN
+30375   23795              CAVALIER              NaN
+120202  L5HZO                HI-LUX              NaN
+30911   23953                  MINI              NaN
+44273   26386               TRANSIT              NaN
+15919   20922                ESCORT              NaN
+17205   22514               GRANADA              NaN
+77820   54843                MONDEO              NaN
+
+      unique modelvariant (original) modelvariant (new)
+55980  54337      BX 14 TE ST TROPEZ                NaN
+55990  54347               AX 10 TGE                NaN
+55997  54354         BX 17 TXD TURBO                NaN
+55977  54334          EXPERT 900 HDI                NaN
+10571  57538              25 OLYMPIC                NaN
+55985  54342            XM PREMIER I                NaN
+55979  54336            AX 10 E JAZZ                NaN
+55983  54340           XM PRESTIGE I                NaN
+10572  57127    115 KNIGHTSBRIDGE SE                NaN
+55996  54353    C25 D 1400 4X4 TURBO                NaN
+
+       unique        modeltrim (original) modeltrim (new)
+37355    2526                     SRI 16V             NaN
+3251    D0MVN                   GLS SPORT             NaN
+41500   15766                         L D             NaN
+82462   J7ETP  E350 SE CGI BLUEEFFICIENCY             NaN
+36818   10969                   MERIT 12V             NaN
+96436   J7BVK                           D             NaN
+108312  J5JGL              VECTOR SPORT T             NaN
+45764   55017           VALENTINO BALBONI             NaN
+87528   J7AQV                      TDI SE             NaN
+14081   22952                          45             NaN
+
+       unique series (original) series (new)
+32401   28055              4400          NaN
+37956   12411             A3370          NaN
+58630   41813               X74          NaN
+120043  L1AIM               MK4          NaN
+112141  J4ATZ               MK2          NaN
+31596   32834             A3370          NaN
+55439   36085                N6          NaN
+56124   B6CLY             X1/X2          NaN
+75565   B1GKS             SW164          NaN
+68520   46374               E46          NaN
+
+      unique cofo (original) cofo (new)
+55994  54351              SP        NaN
+75626  75333              GR        NaN
+19871  75189              IR        NaN
+66939  75183              FR        NaN
+20162  75223              GR        NaN
+16607  75532              JP        NaN
+75621  75328              PR        NaN
+19765  75185              GR        NaN
+11807  75743              IT        NaN
+23183  75520              UK        NaN
+
+     unique mppt_cc (original) mppt_cc (new)
+1451  M2RET               1593           NaN
+9479  M7MKY               9999           NaN
+8003  Q3EZY               2227           NaN
+8116  L0FLO               9999           NaN
+9558  B3CCG               1690           NaN
+7785  N1JOX               9999           NaN
+8081  U7ASJ               9999           NaN
+8106  M2RBO               9999           NaN
+7999  Q3EYF               1798           NaN
+7727  N1JNF               9999           NaN
+
+       unique mppt_fuel (original) mppt_fuel (new)
+96482   J7BXE                    P             NaN
+62825   39316                  P/A             NaN
+30494   23914                    D             NaN
+91907   L5JKB                    P             NaN
+54373   B7BXT                    D             NaN
+73807   B7DVN                    D             NaN
+44070    8707                    P             NaN
+58280   48574                    P             NaN
+11452   28499                    P             NaN
+126691  L5ARL                    D             NaN
+
+       unique turb (original) turb (new)
+66538   B2AGM               T        NaN
+120731  L5HJI               T        NaN
+75786   55779               T        NaN
+31558   32796               T        NaN
+74148   48949               T        NaN
+62564   43600               T        NaN
+29995   29216               T        NaN
+36249   22426               T        NaN
+116451  L2EQW               T        NaN
+112441  K0AEX               T        NaN
+
+      unique inj (original) inj (new)
+33026  26601              I       NaN
+34369  15011              I       NaN
+26083  45620              I       NaN
+5893   J7LXI              I       NaN
+71904  47676              I       NaN
+54740  40476              I       NaN
+24215   2111              I       NaN
+63454  42144              I       NaN
+60536  40547              I       NaN
+58213  48507              I       NaN
+
+       unique 4x4 (original) 4x4 (new)
+119911  L1ADK            4.0       NaN
+85990   F1TBR            4.0       NaN
+5416    J7LUC            4.0       NaN
+90745   F0TJB            4.0       NaN
+94153   J7GZP            4.0       NaN
+26922    7310            4.0       NaN
+128055  L2TLC            4.0       NaN
+11567   28613            4.0       NaN
+119608  M0HAN            4.0       NaN
+90081   D0HGS            4.0       NaN
+
+       unique seg (original) seg (new)
+111692  J7JHC              D       NaN
+74246   C5AYQ              C       NaN
+74754   43988              D       NaN
+72610   45355              D       NaN
+90699   D1AEK              G       NaN
+22017   20522              C       NaN
+36199   22376              B       NaN
+124539  L2JBE              C       NaN
+12929   32522              H       NaN
+89322   J7ECQ              C       NaN
+
+       unique eng (original) eng (new)
+47653   41522       CUMM1140       NaN
+48024   37168       MAND2676       NaN
+86660   D0ZLK       MER442LA       NaN
+27000    7388       DAFCS119       NaN
+103293  D8FWF        VOLD13A       NaN
+87715   D8ALH       MER924LA       NaN
+67412   36342        RENDXI5       NaN
+104179  D1CZU       VOL103ES       NaN
+97606   D0KCS       MAND2066       NaN
+50618   D0FYP       IVEF4A6B       NaN
+
+       unique bhp (original) bhp (new)
+6194    56931          185.0       NaN
+23900   31880          341.0       NaN
+104989  D1AXM          402.0       NaN
+67500   36430          340.0       NaN
+39553    1716           79.0       NaN
+71012   40919          430.0       NaN
+65812   45054          220.0       NaN
+107329  G1AHG          296.0       NaN
+49659   D0FNS          300.0       NaN
+100759  D1AQB          380.0       NaN
+
+      unique mcrismake (original) mcrismake (new)
+11776  23771                   K8             NaN
+9550   B3CCF                   N9             NaN
+6083   B2CKG                   W2             NaN
+6370   L0FNV                   W2             NaN
+6903   N1KYL                   W7             NaN
+23067  13515                   R2             NaN
+4471   J7MLY                   V7             NaN
+8746   M1QSL                   W0             NaN
+529    N1JMO                   H4             NaN
+16553  8X621                   V7             NaN
+
+      unique mcrismodel (original) mcrismodel (new)
+6965   N1LEA                   AAC              NaN
+9238   B5AAF                   AAJ              NaN
+2520   L0EXO                   AAJ              NaN
+13373   2872                   AAH              NaN
+23633  51906                   LAJ              NaN
+18400  11280                   HBC              NaN
+2173   L0FGN                   EMC              NaN
+7283   N1LIT                   EBJ              NaN
+8039   B3CDJ                   GAG              NaN
+5956   J7NNK                   JDC              NaN
+
+       unique source (original) source (new)
+17857   14017             MCRIS          NaN
+60399   B2NPR             MVRIS          NaN
+18254   49249             MCRIS          NaN
+127139  L5DMJ             MVRIS          NaN
+11560   28607             MVRIS          NaN
+119085  M2AUK             MVRIS          NaN
+99002   D8BDK             MVRIS          NaN
+16217    4125             MCRIS          NaN
+70993   40900             MVRIS          NaN
+81324   41392             MVRIS          NaN
+
+       unique entered (original) entered (new)
+7614    M2QVE         03/02/2010           NaN
+8617    M1QAK         03/02/2010           NaN
+7611    M2QVN         03/02/2010           NaN
+7334    N1KQG         13/01/2010           NaN
+84579   D0LPT         14/01/2010           NaN
+7235    N1LHZ         13/01/2010           NaN
+7215    N1LBW         13/01/2010           NaN
+74666   43902         14/01/2010           NaN
+109514  M7AMF         14/01/2010           NaN
+18303   11183         13/01/2010           NaN
+
+       unique mp_body (original) mp_body (new)
+81819   C6ABE                5HT           NaN
+42616   25557                5HT           NaN
+100288  D1CSR                3HT           NaN
+125866  L5FIQ                5HT           NaN
+60273   53450                VAN           NaN
+42028    7593                5HT           NaN
+34280    5654                EST           NaN
+72300   36534                2CP           NaN
+73279   B7AZU                4SL           NaN
+32430   30479                MPV           NaN
+
+      unique oldvehicle_category_code (original) oldvehicle_category_code (new)
+12755  75811                                  XB                            NaN
+59582  75119                                  AA                            NaN
+66057  75245                                  EA                            NaN
+19673  75164                                  AA                            NaN
+74343  75419                                  AA                            NaN
+66306  75228                                  GA                            NaN
+23716  75524                                  AA                            NaN
+23790  75619                                  AA                            NaN
+75784  55777                                  AB                            NaN
+75793  55786                                  DC                            NaN
+
+      unique oldvehicle_category_description (original) oldvehicle_category_description (new)
+20162  75223       2/3 Wheelers (Motorcycle & Scooters)                                   NaN
+67927  55578                       HCVs (Rigids 3 Axle)                                   NaN
+75568  75376                       CARS (exc. Off-Road)                                   NaN
+75804  55837            LCVs (Heavy Vans 2601-3500 Kgs)                                   NaN
+21837  75392                      2/3 Wheelers (Mopeds)                                   NaN
+59566  75103                       CARS (exc. Off-Road)                                   NaN
+74364  75445                       CARS (exc. Off-Road)                                   NaN
+24444  75706                       CARS (exc. Off-Road)                                   NaN
+65289  75323           HCVs (Artics >32520 Kgs - 2Axle)                                   NaN
+65684  75286                       CARS (exc. Off-Road)                                   NaN
+
+Sample Rows Only in new (First 10 Columns)
+------------------------------------------
+
+       unique dvla_make_code  dvla_model_code               dvla_description mvris_make_code mvris_model_code mvriscode vehicle_category_code  vehicle_category_description intro_date
+140871  L2FVC             LS             15.0                            NaN              L2              FVC     L2FVC                    AA                          CARS   00:00:00
+242778  J7NTT             H1            731.0                      X-WAY 460              J7              NTT     J7NTT                    EF    RIGID 2 AX ABOVE 16000 KGS   00:00:00
+163621  M3CIL             MJ            103.0                            NaN              M3              CIL     M3CIL                    AA                          CARS   00:00:00
+230944  R8BJX             R8            687.0                            NaN              R8              BJX     R8BJX                    AA                          CARS   00:00:00
+206253  M7JAK             M7            339.0                            NaN              M7              JAK     M7JAK                    DA  MEDIUM VANS 2500 TO 2799 KGS   00:00:00
+222506  P4EAK             QV            712.0                            NaN              P4              EAK     P4EAK                    AA                          CARS   00:00:00
+191908  P1KCD             P1              0.0                            NaN              P1              KCD     P1KCD                    HA                 ARTIC 2 AXLES   00:00:00
+142005  L5HUW             LJ              0.0                            NaN              L5              HUW     L5HUW                    FA                  RIGID 3 AXLE   00:00:00
+238953  T7ALV             Q8            256.0  SANDERO STEPWAY ESSENTIAL TCE              T7              ALV     T7ALV                    AA                          CARS   00:00:00
+241661  M2QAB             MX              0.0                    UNSPECIFIED              M2              QAB     M2QAB                    HB               ARTIC 3 + AXLES   00:00:00
+
+
+
+Unique rows: SVT_12Empty DataFrame
+Columns: [unique, dvla_make_code, dvla_model_code, dvla_description, mvris_make_code, mvris_model_code, mvriscode, vehicle_category_code, vehicle_category_description, intro_date, marque, model_range, range_series, model_year, variant, cc, nom_cc, doors, body_type, transmission, fuel, aspiration, country_of_origin, drive_type, engine_location, driving_axle, forward_gears, seats, engine_make, engine_model, engine_configuration, fuel_delivery, bore, stroke, no_cylinders, valves_per_cylinder, valve_gear, power_kw, calc_bhp, power_rpm, torque_nm, torque_lbft, torque_rpm, max_speed_mph, max_spd_kph, acceleration_0_100_kph, urban_cold_mpg, urban_cold_litre_100_kms, extra_urban_mpg, extra_urban_litre_100_kms, combined_mpg, combined_litre_100_kms, co2, length, width, height, wheelbase, market_segment, gvw, payload, unladen_weight, kerb_weight_min, euro_status, termination_date, mp_vc, mp_make_code, mp_range_code, mp_model_code, mp_trans_ind, make, modelrange, modelvariant, modeltrim, series, cofo, mppt_cc, mppt_fuel, turb, inj, 4x4, seg, eng, bhp, mcrismake, mcrismodel, source, entered, mp_body, oldvehicle_category_code, oldvehicle_category_description]
+Index: []
+
+[0 rows x 90 columns]
+
+Unique rows: SVT       unique  ...       oldvehicle_category_description
+128138  L2BXO  ...                  CARS (exc. Off-Road)
+128139  L2BXP  ...       LCVs (Heavy Vans 2601-3500 Kgs)
+128140  L2BXQ  ...                  CARS (exc. Off-Road)
+128141  L2BXR  ...       LCVs (Heavy Vans 2601-3500 Kgs)
+128142  L2BXS  ...                  CARS (exc. Off-Road)
+...       ...  ...                                   ...
+243053  57169  ...  2/3 Wheelers (Motorcycle & Scooters)
+243054  57542  ...  2/3 Wheelers (Motorcycle & Scooters)
+243055  57148  ...  2/3 Wheelers (Motorcycle & Scooters)
+243056    nan  ...                                   NaN
+243057    nan  ...                                   NaN
+
+[114920 rows x 91 columns]
+
+Unique columns: SVT_12
+OrderedSet()
+
+Unique columns: SVT
+OrderedSet(['e10'])
+
+Nulls values by columns in the data: [Parc].[dbo].[SVT_12]  <bound method NDFrame._add_numeric_operations.<locals>.sum of unique                                  0
+dvla_make_code                          0
+dvla_model_code                         0
+dvla_description                   115067
+mvris_make_code                         0
+                                    ...  
+source                              73796
+entered                            124969
+mp_body                             19416
+oldvehicle_category_code                0
+oldvehicle_category_description         0
+Length: 90, dtype: int64>
+
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: unique - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: dvla_make_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: dvla_model_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: dvla_description - 90%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mvris_make_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mvris_model_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mvriscode - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: vehicle_category_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: vehicle_category_description - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: intro_date - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: marque - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: model_range - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: range_series - 23%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: model_year - 50%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: variant - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: cc - 2%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: nom_cc - 6%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: doors - 25%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: body_type - 1%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: transmission - 5%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: fuel - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: aspiration - 4%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: country_of_origin - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: drive_type - 2%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: engine_location - 10%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: driving_axle - 16%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: forward_gears - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: seats - 43%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: engine_make - 3%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: engine_model - 17%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: engine_configuration - 40%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: fuel_delivery - 42%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: bore - 44%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: stroke - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: no_cylinders - 18%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: valves_per_cylinder - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: valve_gear - 17%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: power_kw - 22%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: calc_bhp - 20%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: power_rpm - 28%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: torque_nm - 17%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: torque_lbft - 18%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: torque_rpm - 17%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: max_speed_mph - 28%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: max_spd_kph - 28%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: acceleration_0_100_kph - 38%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: urban_cold_mpg - 45%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: urban_cold_litre_100_kms - 35%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: extra_urban_mpg - 45%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: extra_urban_litre_100_kms - 35%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: combined_mpg - 45%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: combined_litre_100_kms - 35%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: co2 - 35%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: length - 25%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: width - 23%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: height - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: wheelbase - 61%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: market_segment - 12%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: gvw - 28%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: payload - 64%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: unladen_weight - 49%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: kerb_weight_min - 32%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: euro_status - 23%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: termination_date - 79%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_vc - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_make_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_range_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_model_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_trans_ind - 12%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: make - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: modelrange - 12%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: modelvariant - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: modeltrim - 22%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: series - 31%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: cofo - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mppt_cc - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mppt_fuel - 12%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: turb - 44%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: inj - 37%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: 4x4 - 89%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: seg - 26%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: eng - 70%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: bhp - 70%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mcrismake - 89%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mcrismodel - 89%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: source - 58%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: entered - 98%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: mp_body - 15%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: oldvehicle_category_code - 0%
+Missing Data by Percentage [Parc].[dbo].[SVT_12]: oldvehicle_category_description - 0%
+
+
+Nulls values by columns in the data: SVT <bound method NDFrame._add_numeric_operations.<locals>.sum of unique                                  0
+dvla_make_code                        286
+dvla_model_code                         2
+dvla_description                   226724
+mvris_make_code                         2
+                                    ...  
+mcrismodel                         233821
+source                             140020
+entered                            240983
+oldvehicle_category_code             1019
+oldvehicle_category_description      1019
+Length: 91, dtype: int64>
+
+Missing Data by Percentage SVT: unique - 0%
+Missing Data by Percentage SVT: dvla_make_code - 0%
+Missing Data by Percentage SVT: dvla_model_code - 0%
+Missing Data by Percentage SVT: dvla_description - 93%
+Missing Data by Percentage SVT: mvris_make_code - 0%
+Missing Data by Percentage SVT: mvris_model_code - 0%
+Missing Data by Percentage SVT: mvriscode - 0%
+Missing Data by Percentage SVT: vehicle_category_code - 0%
+Missing Data by Percentage SVT: vehicle_category_description - 0%
+Missing Data by Percentage SVT: intro_date - 0%
+Missing Data by Percentage SVT: marque - 1%
+Missing Data by Percentage SVT: model_range - 13%
+Missing Data by Percentage SVT: range_series - 39%
+Missing Data by Percentage SVT: model_year - 54%
+Missing Data by Percentage SVT: variant - 2%
+Missing Data by Percentage SVT: cc - 10%
+Missing Data by Percentage SVT: nom_cc - 22%
+Missing Data by Percentage SVT: doors - 46%
+Missing Data by Percentage SVT: body_type - 11%
+Missing Data by Percentage SVT: transmission - 15%
+Missing Data by Percentage SVT: fuel - 2%
+Missing Data by Percentage SVT: aspiration - 14%
+Missing Data by Percentage SVT: country_of_origin - 4%
+Missing Data by Percentage SVT: drive_type - 7%
+Missing Data by Percentage SVT: engine_location - 26%
+Missing Data by Percentage SVT: driving_axle - 29%
+Missing Data by Percentage SVT: forward_gears - 41%
+Missing Data by Percentage SVT: seats - 53%
+Missing Data by Percentage SVT: engine_make - 19%
+Missing Data by Percentage SVT: engine_model - 31%
+Missing Data by Percentage SVT: engine_configuration - 36%
+Missing Data by Percentage SVT: fuel_delivery - 40%
+Missing Data by Percentage SVT: bore - 38%
+Missing Data by Percentage SVT: stroke - 38%
+Missing Data by Percentage SVT: no_cylinders - 31%
+Missing Data by Percentage SVT: valves_per_cylinder - 38%
+Missing Data by Percentage SVT: valve_gear - 33%
+Missing Data by Percentage SVT: power_kw - 28%
+Missing Data by Percentage SVT: calc_bhp - 71%
+Missing Data by Percentage SVT: power_rpm - 30%
+Missing Data by Percentage SVT: torque_nm - 30%
+Missing Data by Percentage SVT: torque_lbft - 31%
+Missing Data by Percentage SVT: torque_rpm - 30%
+Missing Data by Percentage SVT: max_speed_mph - 41%
+Missing Data by Percentage SVT: max_spd_kph - 41%
+Missing Data by Percentage SVT: acceleration_0_100_kph - 60%
+Missing Data by Percentage SVT: urban_cold_mpg - 64%
+Missing Data by Percentage SVT: urban_cold_litre_100_kms - 46%
+Missing Data by Percentage SVT: extra_urban_mpg - 64%
+Missing Data by Percentage SVT: extra_urban_litre_100_kms - 46%
+Missing Data by Percentage SVT: combined_mpg - 64%
+Missing Data by Percentage SVT: combined_litre_100_kms - 46%
+Missing Data by Percentage SVT: co2 - 46%
+Missing Data by Percentage SVT: length - 37%
+Missing Data by Percentage SVT: width - 36%
+Missing Data by Percentage SVT: height - 38%
+Missing Data by Percentage SVT: wheelbase - 63%
+Missing Data by Percentage SVT: market_segment - 38%
+Missing Data by Percentage SVT: gvw - 47%
+Missing Data by Percentage SVT: payload - 73%
+Missing Data by Percentage SVT: unladen_weight - 60%
+Missing Data by Percentage SVT: kerb_weight_min - 45%
+Missing Data by Percentage SVT: euro_status - 32%
+Missing Data by Percentage SVT: termination_date - 92%
+Missing Data by Percentage SVT: mp_vc - 0%
+Missing Data by Percentage SVT: mp_make_code - 0%
+Missing Data by Percentage SVT: mp_range_code - 0%
+Missing Data by Percentage SVT: mp_model_code - 0%
+Missing Data by Percentage SVT: mp_trans_ind - 31%
+Missing Data by Percentage SVT: make - 0%
+Missing Data by Percentage SVT: modelrange - 31%
+Missing Data by Percentage SVT: modelvariant - 0%
+Missing Data by Percentage SVT: modeltrim - 43%
+Missing Data by Percentage SVT: series - 49%
+Missing Data by Percentage SVT: cofo - 0%
+Missing Data by Percentage SVT: mppt_cc - 0%
+Missing Data by Percentage SVT: mppt_fuel - 31%
+Missing Data by Percentage SVT: turb - 55%
+Missing Data by Percentage SVT: inj - 71%
+Missing Data by Percentage SVT: 4x4 - 92%
+Missing Data by Percentage SVT: seg - 49%
+Missing Data by Percentage SVT: mp_body - 36%
+Missing Data by Percentage SVT: eng - 84%
+Missing Data by Percentage SVT: bhp - 84%
+Missing Data by Percentage SVT: e10 - 70%
+Missing Data by Percentage SVT: mcrismake - 96%
+Missing Data by Percentage SVT: mcrismodel - 96%
+Missing Data by Percentage SVT: source - 58%
+Missing Data by Percentage SVT: entered - 99%
+Missing Data by Percentage SVT: oldvehicle_category_code - 0%
+Missing Data by Percentage SVT: oldvehicle_category_description - 0%

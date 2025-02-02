@@ -1,0 +1,193 @@
+
+
+Nulls values by columns in the data: Parc<bound method NDFrame._add_numeric_operations.<locals>.sum of Unique                     0
+Vehicle Type               0
+Sector                     0
+Make                       0
+Range                      0
+Variant                    0
+Country of Origin          0
+Body Style                 0
+DVLA Body Type             0
+Transmission               0
+Nominal Engine Capacity    0
+Engine CC                  0
+Fuel Type                  0
+Aspiration                 0
+Drive_Type                 0
+Power BHP                  0
+MVRISPostcode              0
+Company_Private            0
+Number Previous Keepers    0
+Number of Seats            0
+Colour                     0
+Weight                     0
+Year of 1st Reg            0
+Count of Registrations     0
+Aspiration_ismissing       0
+Drive_Type_ismissing       0
+num_missing                0
+dtype: int64>
+
+Missing Data by Percentage Parc: Unique - 0%
+Missing Data by Percentage Parc: Vehicle Type - 0%
+Missing Data by Percentage Parc: Sector - 0%
+Missing Data by Percentage Parc: Make - 0%
+Missing Data by Percentage Parc: Range - 0%
+Missing Data by Percentage Parc: Variant - 0%
+Missing Data by Percentage Parc: Country of Origin - 0%
+Missing Data by Percentage Parc: Body Style - 0%
+Missing Data by Percentage Parc: DVLA Body Type - 0%
+Missing Data by Percentage Parc: Transmission - 0%
+Missing Data by Percentage Parc: Nominal Engine Capacity - 0%
+Missing Data by Percentage Parc: Engine CC - 0%
+Missing Data by Percentage Parc: Fuel Type - 0%
+Missing Data by Percentage Parc: Aspiration - 0%
+Missing Data by Percentage Parc: Drive_Type - 0%
+Missing Data by Percentage Parc: Power BHP - 0%
+Missing Data by Percentage Parc: MVRISPostcode - 0%
+Missing Data by Percentage Parc: Company_Private - 0%
+Missing Data by Percentage Parc: Number Previous Keepers - 0%
+Missing Data by Percentage Parc: Number of Seats - 0%
+Missing Data by Percentage Parc: Colour - 0%
+Missing Data by Percentage Parc: Weight - 0%
+Missing Data by Percentage Parc: Year of 1st Reg - 0%
+Missing Data by Percentage Parc: Count of Registrations - 0%
+Missing Data by Percentage Parc: Aspiration_ismissing - 0%
+Missing Data by Percentage Parc: Drive_Type_ismissing - 0%
+Missing Data by Percentage Parc: num_missing - 0%
+
+
+Nulls values by columns in the data Parc Raw: <bound method NDFrame._add_numeric_operations.<locals>.sum of Unique                        0
+Vehicle Type                  0
+Sector                        0
+Make                          0
+Range                         0
+Variant                       0
+Country of Origin             0
+Body Style                    0
+DVLA Body Type                0
+Transmission                  0
+Nominal Engine Capacity       0
+Engine CC                     0
+Fuel Type                     0
+Aspiration                 7409
+Drive_Type                    3
+Power BHP                     0
+MVRISPostcode                 0
+Company_Private               0
+Number Previous Keepers       0
+Number of Seats               0
+Colour                        0
+Weight                        0
+Year of 1st Reg               0
+Count of Registrations        0
+dtype: int64>
+
+Missing Data by Percentage Parc Raw: Unique - 0%
+Missing Data by Percentage Parc Raw: Vehicle Type - 0%
+Missing Data by Percentage Parc Raw: Sector - 0%
+Missing Data by Percentage Parc Raw: Make - 0%
+Missing Data by Percentage Parc Raw: Range - 0%
+Missing Data by Percentage Parc Raw: Variant - 0%
+Missing Data by Percentage Parc Raw: Country of Origin - 0%
+Missing Data by Percentage Parc Raw: Body Style - 0%
+Missing Data by Percentage Parc Raw: DVLA Body Type - 0%
+Missing Data by Percentage Parc Raw: Transmission - 0%
+Missing Data by Percentage Parc Raw: Nominal Engine Capacity - 0%
+Missing Data by Percentage Parc Raw: Engine CC - 0%
+Missing Data by Percentage Parc Raw: Fuel Type - 0%
+Missing Data by Percentage Parc Raw: Aspiration - 74%
+Missing Data by Percentage Parc Raw: Drive_Type - 0%
+Missing Data by Percentage Parc Raw: Power BHP - 0%
+Missing Data by Percentage Parc Raw: MVRISPostcode - 0%
+Missing Data by Percentage Parc Raw: Company_Private - 0%
+Missing Data by Percentage Parc Raw: Number Previous Keepers - 0%
+Missing Data by Percentage Parc Raw: Number of Seats - 0%
+Missing Data by Percentage Parc Raw: Colour - 0%
+Missing Data by Percentage Parc Raw: Weight - 0%
+Missing Data by Percentage Parc Raw: Year of 1st Reg - 0%
+Missing Data by Percentage Parc Raw: Count of Registrations - 0%
+
+
+Cross variance results:DataComPy Comparison
+--------------------
+
+DataFrame Summary
+-----------------
+
+  DataFrame  Columns   Rows
+0  original       27  10000
+1       new       24  10000
+
+Column Summary
+--------------
+
+Number of columns in common: 24
+Number of columns in original but not in new: 3
+Number of columns in new but not in original: 0
+
+Row Summary
+-----------
+
+Matched on: unique
+Any duplicates on match values: Yes
+Absolute Tolerance: 0.0001
+Relative Tolerance: 0
+Number of rows in common: 10,000
+Number of rows in original but not in new: 0
+Number of rows in new but not in original: 0
+
+Number of rows with some compared columns unequal: 7,409
+Number of rows with all compared columns equal: 2,591
+
+Column Comparison
+-----------------
+
+Number of columns compared with some values unequal: 2
+Number of columns compared with all values equal: 22
+Total number of values which compare unequal: 7,412
+
+Columns with Unequal Values or Types
+------------------------------------
+
+            Column original dtype new dtype  # Unequal  Max Diff  # Null Diff
+0       aspiration         object    object       7409       0.0         7409
+1       drive_type         object    object          3       0.0            3
+2  year of 1st reg          int32     int64          0       0.0            0
+
+Sample Rows with Unequal Values
+-------------------------------
+
+                         unique aspiration (original) aspiration (new)
+0  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+1  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+2  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+3  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+4  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+5  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+6  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+7  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+8  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+9  CARS/C LOWER MEDIUM/TOYOTA/1                 TURBO              NaN
+
+                         unique drive_type (original) drive_type (new)
+0  CARS/C LOWER MEDIUM/TOYOTA/1                   4X2              NaN
+1  CARS/C LOWER MEDIUM/TOYOTA/1                   4X2              NaN
+2  CARS/C LOWER MEDIUM/TOYOTA/1                   4X2              NaN
+
+
+
+Unique rows: parcEmpty DataFrame
+Columns: [unique, vehicle type, sector, make, range, variant, country of origin, body style, dvla body type, transmission, nominal engine capacity, engine cc, fuel type, aspiration, drive_type, power bhp, mvrispostcode, company_private, number previous keepers, number of seats, colour, weight, year of 1st reg, count of registrations, aspiration_ismissing, drive_type_ismissing, num_missing]
+Index: []
+
+Unique rows: parc rawEmpty DataFrame
+Columns: [unique, vehicle type, sector, make, range, variant, country of origin, body style, dvla body type, transmission, nominal engine capacity, engine cc, fuel type, aspiration, drive_type, power bhp, mvrispostcode, company_private, number previous keepers, number of seats, colour, weight, year of 1st reg, count of registrations]
+Index: []
+
+Unique columns: parc
+OrderedSet(['aspiration_ismissing', 'drive_type_ismissing', 'num_missing'])
+
+Unique columns: parc raw
+OrderedSet()
